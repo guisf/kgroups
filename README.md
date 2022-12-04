@@ -7,7 +7,7 @@ The implementation of the algorithm can be found in the file "eclust.py" (the im
 
 An example of clustering with a stochastic block model, in comparison with a well-known method in the literature is illustrated below.
 
-![]()
+![](https://github.com/guisf/kgroups/blob/main/figs/sbm_phase_15.png)
 
 
 * See [G. França et. al., "Kernel k-Groups via Hartigan's Method," IEEE Transactions on Pattern Analysis and Machine Intelligence 43 12 2020](https://doi.org/10.1109/TPAMI.2020.2998120) for details.
